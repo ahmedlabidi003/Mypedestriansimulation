@@ -44,8 +44,8 @@ Type C agents will survey their surrounding cells and randomly choose an unoccup
 unoccupied cells, they will stay put.
 """
 
-__author__ = "Willem Klumpenhouwer"
-__credits__ = ["Willem Klumpenhouwer"]
+__author__ = "Ahmed Labidi"
+__credits__ = ["Ahmed Labidi"]
 __version__ = "0.1"
 __status__ = "Development"
 
